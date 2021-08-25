@@ -1,3 +1,4 @@
+import os
 def rename():
     i=1
     path="C:\\Users\\lavanya\\PycharmProjects\\pythonProject2\\images"
